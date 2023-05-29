@@ -1,4 +1,4 @@
-### Weather App
+# Weather App
 This is a web application that displays weather information for different cities. It retrieves data from a backend API and presents it to the user in a user-friendly interface.
 
 ## Features
